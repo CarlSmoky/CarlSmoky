@@ -3,12 +3,15 @@
 ##### I am a Full Stack Developer. I am passionate about bridging technology and people and making life easier.
 
 #### Languages
-
+JavaScript | PHP | SQL
 
 #### Technologies
+Express | React.js |
 
 #### Projects
-
+Find Me-ow!
+Scheduler
+Tiny app
 
 <!--
 **CarlSmoky/CarlSmoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
