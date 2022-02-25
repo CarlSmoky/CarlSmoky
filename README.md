@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am a Full Stack Developer. I am passionate about bridging technology and people and making life easier.
+
+Languages
+
 
 <!--
 **CarlSmoky/CarlSmoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
