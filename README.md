@@ -1,6 +1,11 @@
 ### Hi, I am a Full Stack Developer. I am passionate about bridging technology and people and making life easier.
 
-Languages
+#### Languages
+
+
+#### Technologies
+
+#### Projects
 
 
 <!--
@@ -17,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula
+[![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula
 )](https://github.com/CarlSmoky/github-readme-stats)
