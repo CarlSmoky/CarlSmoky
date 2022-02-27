@@ -1,31 +1,23 @@
-### Hi!
 
-##### I am a Full Stack Developer. I am passionate about bridging technology and people and making life easier.
-
-#### Languages
-JavaScript | PHP | SQL
-
-#### Technologies
-Express | React.js |
-
-#### Projects
-Find Me-ow!
-Scheduler
-Tiny app
 
 <!--
 **CarlSmoky/CarlSmoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### Hi!
+
+##### I am a Full Stack Developer. I am passionate about bridging technology and people - and making life easier.
+
+
+```javascript
+const Kaoru = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "PHP", "Ruby"],
+    databases: ["MySQL", "PostgreSQL"],
+    framework: ["Node.js", "Express", "React"],
+    misc: ["Linux", "bash", "Google Map API", "git", "GitHub", "JWT"]
+};
+```
+
 [![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats
 )](https://github.com/CarlSmoky/github-readme-stats)
