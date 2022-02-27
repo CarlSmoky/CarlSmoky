@@ -12,7 +12,7 @@
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "PHP", "Ruby"],
+    code: ["Javascript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL"],
     framework: ["Node.js", "Express", "React"],
     misc: ["Linux", "bash", "Google Map API", "git", "GitHub", "JWT"]
