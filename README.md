@@ -4,9 +4,9 @@
 **CarlSmoky/CarlSmoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi!
+### Hello World! 
 
-##### I am a Full Stack Developer. I am passionate about bridging technology and people - and making life easier.
+#### I am a Full Stack Developer. I am passionate about bridging technology and people - and making life easier.
 
 
 ```javascript
