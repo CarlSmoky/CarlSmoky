@@ -6,7 +6,7 @@
 
 ### Hello World! 
 
-#### I am a Full Stack Developer. I am passionate about bridging technology and people - and sloving issues and making life easier.
+#### I am a Full Stack Developer. I am passionate about bridging technology and people - and solving issues and making life easier.
 
 
 ```javascript
