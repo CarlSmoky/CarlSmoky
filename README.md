@@ -14,7 +14,7 @@ const Kaoru = {
     pronouns: "She" | "Her",
     code: ["Javascript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL"],
-    framework: ["Node.js", "Express", "React"],
+    framework: ["Node.js", "Express", "React", "ruby on rails"],
     misc: ["Linux", "bash", "Google Maps Platform", "git", "GitHub", "JWT", "Twilio"]
 };
 ```
