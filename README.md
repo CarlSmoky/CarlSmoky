@@ -1,12 +1,7 @@
 
 
-<!--
-**CarlSmoky/CarlSmoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-### Hello World! 
-
-#### I am a Full Stack Developer. I am passionate about bridging technology and people - and solving issues and making life easier.
+<h1 align="center">Hi, I'm Kaoru - Full Stack Developer.</h1>
+<p>I am passionate about bridging technology and people - and solving issues and making life easier</p>
 
 
 ```javascript
