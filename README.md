@@ -15,14 +15,14 @@ const Kaoru = {
 ```
     
 ## GitHub stats
-<p align="center">
+<p align="left">
 <img width="417" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
 </p>
 
 ## 📕 Top projects I've contributed to
-<p align="ceter">
+<p align="lwdt">
     <a href="https://github.com/CarlSmoky/find_me-ow"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=find_me-ow&theme=dracula" alt="find_me-ow"></a>
     <a href="https://github.com/CarlSmoky/Appointment"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=Appointment&theme=dracula" alt="Appointment"></a>
     <a href="https://github.com/CarlSmoky/scheduler"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=scheduler&theme=dracula" alt="scheduler"></a>
