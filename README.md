@@ -16,3 +16,5 @@ const Kaoru = {
 
 [![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats
 )](https://github.com/CarlSmoky/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula&)](https://github.com/CarlSmoky/github-readme-stats)
