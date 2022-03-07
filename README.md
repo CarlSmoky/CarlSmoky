@@ -21,7 +21,7 @@ const Kaoru = {
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
 </p>
 
-## 📕 Top projects I've contributed to
+## 🤖 Top projects
 <p align="left">
     <a href="https://github.com/CarlSmoky/find_me-ow"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=find_me-ow&theme=dracula" alt="find_me-ow"></a>
     <a href="https://github.com/CarlSmoky/Appointment"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=Appointment&theme=dracula" alt="Appointment"></a>
