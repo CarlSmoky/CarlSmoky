@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Kaoru - Full Stack Developer.</h1>
+<h1 align="center"> :sparkles: Hi, I'm Kaoru - Full Stack Developer :sparkles:</h1>
 <p align="center">I am passionate about bridging technology and people - and solving issues and making life easier</p>
 
 
@@ -14,7 +14,7 @@ const Kaoru = {
 };
 ```
     
-## :sparkles: GitHub stats :sparkles:
+## GitHub stats
 <p align="left">
 <img width="417" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
