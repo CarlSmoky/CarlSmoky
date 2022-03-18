@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> :sparkles: Hi, I'm Kaoru - Full Stack Developer :sparkles:</h1>
-<p align="center">I am passionate about bridging technology and people - and solving issues and making life easier</p>
+<p align="center">I am passionate about bridging the gap between technology and people - and solving issues and making life easier</p>
 
 
 ```javascript
