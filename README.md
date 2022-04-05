@@ -10,7 +10,8 @@ const Kaoru = {
     code: ["Javascript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL"],
     framework: ["Node.js", "Express", "React", "ruby on rails"],
-    misc: ["Linux", "shell", "Google Maps Platform", "git", "GitHub", "JWT", "Twilio", "Heroku", "netlify"]
+    misc: ["Linux", "shell", "Google Maps Platform", "git", "GitHub",
+    "JWT", "Twilio", "Heroku", "netlify"]
 };
 ```
     
