@@ -14,7 +14,7 @@ const Kaoru = {
     framework: ["Node.js", "Express", "React", "ruby on rails"],
     misc: ["Linux", "shell", "Google Maps Platform", "git", "GitHub",
             "JWT", "Twilio", "Heroku", "netlify", "TypeScript"],
-    otherThanCoding: [Cooking, Cycling, Snowboard, Hiking]
+    loveToDo: ["Cooking", "Cycling", "Swimming", "Snowboard", "Hiking", "Coding"]
 };
 ```
     
