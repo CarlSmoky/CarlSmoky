@@ -9,12 +9,12 @@
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "PHP", "SQL", "Ruby"],
+    code: ["JavaScript", "TypeScript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL"],
     framework: ["Node.js", "Express", "React", "ruby on rails"],
     misc: ["Linux", "shell", "Google Maps Platform", "git", "GitHub",
-            "JWT", "Twilio", "Heroku", "netlify", "TypeScript"],
-    loveToDo: ["Cooking", "Cycling", "Swimming", "Snowboard", "Hiking", "Coding"]
+            "JWT", "Twilio", "Heroku", "netlify" ],
+    loveToDo: ["Improvise Recipes", "Cycling", "Swimming", "Snowboard", "Hiking", "Cleaning the Neighbourhood", "Coding"]
 };
 ```
     
