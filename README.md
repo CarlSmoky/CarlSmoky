@@ -19,14 +19,14 @@ const Kaoru = {
 };
 ```
     
-<!-- ## 🤖 GitHub stats
+## 🤖 GitHub stats
 <p align="left">
 <img width="417" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
-</p> -->
+</p>
 
-<!-- ## 🚀 Top projects
+## 🚀 Top projects
 <p align="left">
     <a href="https://github.com/CarlSmoky/little_libraries_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries_client&theme=dracula" alt="little_libraries_client"></a>
     <a href="https://github.com/CarlSmoky/little_libraries"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries&theme=dracula" alt="little_libraries"></a>
@@ -36,5 +36,5 @@ const Kaoru = {
     <a href="https://github.com/CarlSmoky/tweeter"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=tweeter&theme=dracula" alt="tweeter"></a>
     <a href="https://github.com/CarlSmoky/tinyapp"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=tinyapp&theme=dracula" alt="tinyapp"></a> 
     
-</P>-->
+</P>
 
