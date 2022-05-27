@@ -21,9 +21,9 @@ const Kaoru = {
     
 ## 🤖 GitHub stats
 <p align="left">
-<img width="417" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
+<img width="293" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
 </p>
 
 ## 🚀 Top projects
