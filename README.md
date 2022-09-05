@@ -12,8 +12,8 @@ const Kaoru = {
     code: ["JavaScript", "TypeScript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL", "MondoDB"],
     framework: ["Node.js", "Express", "React", "ruby on rails"],
-    misc: ["Linux", "shell", "Google Maps Platform", "git", "GitHub",
-            "JWT", "Twilio", "Heroku", "Netlify" ],
+    misc: ["Linux", "Google Maps API", "git", "GitHub",
+            "JWT", "Twilio", "Heroku", "Netlify", "ejs", "Mongoose" ],
     loveToDo: ["Improvise Recipes", "Cycling", "Swimming", "Snowboard", "Hiking", 
             "Cleaning the Neighbourhood", "Coding"]
 };
