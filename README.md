@@ -13,7 +13,7 @@ const Kaoru = {
     databases: ["MySQL", "PostgreSQL", "MondoDB"],
     framework: ["Node.js", "Express", "React", "ruby on rails"],
     misc: ["Linux", "Google Maps API", "git", "GitHub", "JWT", "Twilio", "Heroku", "Netlify", "ejs", "Mongoose" ],
-    loveToDo: ["Improvise Recipes", "Cycling", "Swimming", "Snowboard", "Hiking", "Cleaning the Neighbourhood", "Coding"]
+    loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Coding"]
 };
 ```
 
