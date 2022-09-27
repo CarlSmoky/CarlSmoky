@@ -11,9 +11,9 @@ const Kaoru = {
     pronouns: "She" | "Her",
     code: ["JavaScript", "TypeScript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL", "MondoDB"],
-    framework: ["Node.js", "Express", "React", "ruby on rails"],
+    framework: ["React", "Node.js", "Express", "ruby on rails"],
     misc: ["Linux", "Google Maps API", "git", "GitHub", "JWT", "Twilio", "Heroku", "Netlify", "ejs", "Mongoose" ],
-    loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Coding"]
+    loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Coding", "Traveling"]
 };
 ```
 
