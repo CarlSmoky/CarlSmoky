@@ -19,12 +19,12 @@ const Kaoru = {
 
 <h2 align="center"> 🚀 Top projects </h2>
 <p align="center">
+    <a href="https://github.com/CarlSmoky/interview_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview_client&theme=dracula" alt="Ace The Intereview! client"></a>
+    <a href="https://github.com/CarlSmoky/interview-server"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview-server&theme=dracula" alt="Ace The Intereview! server"></a>
     <a href="https://github.com/CarlSmoky/little_libraries_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries_client&theme=dracula" alt="little_libraries_client"></a>
     <a href="https://github.com/CarlSmoky/little_libraries"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries&theme=dracula" alt="little_libraries"></a>
     <a href="https://github.com/CarlSmoky/find_me-ow"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=find_me-ow&theme=dracula" alt="find_me-ow"></a>
     <a href="https://github.com/CarlSmoky/Appointment"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=Appointment&theme=dracula" alt="Appointment"></a>
-    <a href="https://github.com/CarlSmoky/scheduler"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=scheduler&theme=dracula" alt="scheduler"></a>
-    <a href="https://github.com/CarlSmoky/tweeter"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=tweeter&theme=dracula" alt="tweeter"></a>
 </P>
 <h2 align="center"> 🤖 GitHub stats </h2>
 <p align="center">
