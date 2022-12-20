@@ -16,6 +16,9 @@ const Kaoru = {
     loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Coding", "Traveling"]
 };
 ```
+
+![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats")
+
 <!-- 
 <h2 align="center"> 🚀 Top projects </h2>
 <p align="center">
@@ -29,6 +32,7 @@ const Kaoru = {
 <h2 align="center"> 🤖 GitHub stats </h2>
 <p align="center">
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
+
 
 <img width="293" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
 </p> -->
