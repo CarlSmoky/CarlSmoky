@@ -20,7 +20,7 @@ const Kaoru = {
 ![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats")
 
 
-<h2 align="center"> 🚀 Top projects </h2>
+<!-- <h2 align="center"> 🚀 Top projects </h2>
 <p align="center">
     <a href="https://github.com/CarlSmoky/interview_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview_client&theme=dracula" alt="Ace The Intereview! client"></a>
     <a href="https://github.com/CarlSmoky/interview-server"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview-server&theme=dracula" alt="Ace The Intereview! server"></a>
@@ -35,4 +35,4 @@ const Kaoru = {
 
 
 <img width="293" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
-</p>
+</p> -->
