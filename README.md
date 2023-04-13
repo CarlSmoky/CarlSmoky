@@ -17,7 +17,7 @@ const Kaoru = {
 };
 ```
 
-![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats")
+<!-- ![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats") -->
 
 
 <!-- <h2 align="center"> 🚀 Top projects </h2>
