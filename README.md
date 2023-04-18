@@ -9,7 +9,7 @@
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
-    code: ["JavaScript", "TypeScript", "PHP", "SQL", "Ruby"],
+    code: ["JavaScript", "PHP", "SQL", "Ruby"],
     databases: ["MySQL", "PostgreSQL", "MondoDB"],
     framework: ["React", "Node.js", "Express", "ruby on rails"],
     misc: ["Linux", "Google Maps API", "git", "GitHub", "JWT", "Twilio", "Heroku", "Netlify", "ejs", "Mongoose" ],
