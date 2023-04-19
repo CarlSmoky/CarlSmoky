@@ -16,23 +16,17 @@ const Kaoru = {
     loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Coding", "Traveling"]
 };
 ```
+<!-- <h2 align="left"> Languages & Tools I Use: </h2>
+<h3>Languages</h3>
+<h3>Libraries & Frameworks</h3>
+<h3>Databases</h3>
+<h3>Tools That I Am Learning</h3>
 
-![Kaoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats")
+<h2 align="left"> 🚀 Top projects </h2> -->
 
+<h2 align="left"> 🤖 GitHub stats </h2>
+<div align="left">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
-<!-- <h2 align="center"> 🚀 Top projects </h2>
-<p align="center">
-    <a href="https://github.com/CarlSmoky/interview_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview_client&theme=dracula" alt="Ace The Intereview! client"></a>
-    <a href="https://github.com/CarlSmoky/interview-server"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=interview-server&theme=dracula" alt="Ace The Intereview! server"></a>
-    <a href="https://github.com/CarlSmoky/little_libraries_client"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries_client&theme=dracula" alt="little_libraries_client"></a>
-    <a href="https://github.com/CarlSmoky/little_libraries"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=little_libraries&theme=dracula" alt="little_libraries"></a>
-    <a href="https://github.com/CarlSmoky/find_me-ow"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=find_me-ow&theme=dracula" alt="find_me-ow"></a>
-    <a href="https://github.com/CarlSmoky/portfolio"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlSmoky&repo=portfolio&theme=dracula" alt="Portfolio"></a>
-</P>
-<h2 align="center"> 🤖 GitHub stats </h2>
-<p align="center">
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
-
-
-<img width="293" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
-</p> -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
+</div>
