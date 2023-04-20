@@ -33,14 +33,8 @@ const Kaoru = {
         Testing: [ "Mocha", "chai"],
         Tools: ["Linux", "git", "GitHub", "Twilio", "JWT"]
     },
-    "Exposed To": {
-        Languages: ["Ruby"],
-        Libraries & Frameworks : ["TypeScript", "Redux"],
-        Databases: ["MongoDB"],
-        Testing: [ "Jest", "Cypress", "Storybook"],
-        Tools: ["Amazon AWS", "Google Cloud Platform", "Figma"]
-    },
-    loveToDo: ["Improvise Recipes", "Hanging out with cats", "Hiking", "Swimming", "Snowboard", "Cycling", "Traveling"]
+    "Exposed To": ["Amazon AWS", "Google Cloud Platform", "TypeScript", "Redux", "MongoDB","Figma","Jest"],
+    loveToDo: ["Improvise Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
 };
 ```
 
