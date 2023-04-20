@@ -18,13 +18,14 @@
     I am a full stack software engineer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
 </p>
 
-
+<!--
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
     loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Cycling", "Traveling"]
 };
 ```
+-->
 
 <h2 align="left">🚀 Languages & Tools I Use: </h2>
 <h3>Languages</h3>
