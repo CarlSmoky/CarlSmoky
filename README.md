@@ -1,8 +1,8 @@
 
 
-<!--<h1 align="center"> :sparkles: Hi, I'm Kaoru - Full Stack Software Engineer :sparkles:</h1>-->
-<h1 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=DB7092&center=true&vCenter=true&multiline=true&repeat=false&width=561&height=100&lines=%E2%9C%A8Hi!+I+am+Kaoru%E2%9C%A8;+Full+Stack+Software+Engineer!+" alt="Typing SVG" /></a>
+<h1 align="center"> :sparkles: Hi, I'm Kaoru :sparkles:
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB7092&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=45&lines=Full+Stack+Software+Engineer!+" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
