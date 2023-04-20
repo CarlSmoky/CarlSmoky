@@ -1,6 +1,19 @@
 
 
 <h1 align="center"> :sparkles: Hi, I'm Kaoru - Full Stack Software Engineer :sparkles:</h1>
+<div align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/kaorutsumita/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a target="_blank" href="https://kaoru-portfolio.netlify.app/">
+        <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+    </a>
+    <!--
+    <a target="_blank" href="">
+        <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
+    </a>
+    -->
+</div>
 <p>
     I am a full stack software engineer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
 </p>
@@ -12,6 +25,7 @@ const Kaoru = {
     loveToDo: ["Improvise Recipes", "Hiking", "Swimming", "Snowboard", "Cycling", "Traveling"]
 };
 ```
+
 <h2 align="left">🚀 Languages & Tools I Use: </h2>
 <h3>Languages</h3>
 <p>
