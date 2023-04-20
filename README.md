@@ -26,6 +26,7 @@
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
+    "located in": "Toronto, Canada",
     Working Knowledge : {
         Languages: ["Javascript", "SQL", "PHP", "HTML5", "CSS3"],
         Libraries & Frameworks : ["React.js", "Node.js", "express", "styled component", "Sass"],
@@ -33,7 +34,7 @@ const Kaoru = {
         Testing: [ "Mocha", "chai"],
         Tools: ["Linux", "git", "GitHub", "Twilio", "JWT"]
     },
-    "Exposed To": ["Amazon AWS", "Google Cloud Platform", "TypeScript", "Redux", "MongoDB","Figma","Jest"],
+    "Exposed To": ["Amazon AWS", "Google Cloud Platform", "TypeScript", "Redux", "MongoDB", "Figma", "Jest"],
     loveToDo: ["Improvise Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
 };
 ```
