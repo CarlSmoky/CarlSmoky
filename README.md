@@ -22,12 +22,12 @@
     I am a full stack software engineer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
 </p>
 
-
+<!--
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
     "located in": "Toronto, Canada",
-    Working Knowledge : {
+    "Working Knowledge" : {
         Languages: ["Javascript", "SQL", "PHP", "HTML5", "CSS3"],
         Libraries & Frameworks : ["React.js", "Node.js", "express", "styled component", "Sass"],
         Databases: ["PostgreSQL", "MySQL"],
@@ -38,9 +38,9 @@ const Kaoru = {
     loveToDo: ["Improvise Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
 };
 ```
+-->
 
 
-<!--
 <h2 align="left">🚀 Languages & Tools I Use: </h2>
 <h3>Languages</h3>
 <p>
@@ -92,7 +92,7 @@ const Kaoru = {
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </div>
--->
+
 
 <!-- <h2 align="left"> 👑Top projects </h2> -->
 
