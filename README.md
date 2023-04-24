@@ -96,9 +96,10 @@ const Kaoru = {
 
 <!-- <h2 align="left"> 👑Top projects </h2> -->
 
-<h2 align="left"> 🤖 GitHub stats </h2>
+<!--<h2 align="left"> 🤖 GitHub stats </h2>
 <div align="left">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
 </div>
+-->
