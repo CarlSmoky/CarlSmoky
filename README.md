@@ -29,10 +29,11 @@ const Kaoru = {
     location: "Toronto, Canada",
     currentProject: {
         title: "Flashcard",
-        repos : {
+        repos: {
             client: "https://github.com/CarlSmoky/flashcard_client",
             server: "https://github.com/CarlSmoky/flashcard_server"
-        }
+        },
+        stack: ["React.js", "Node.js", "PostgreSQL", "styled-components"]
     },
     currentlyLearning : "AWS",
     loveToDo: ["Improvising Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
