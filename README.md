@@ -22,24 +22,22 @@
     I am a full stack software engineer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
 </p>
 
-<!--
+
 ```javascript
 const Kaoru = {
     pronouns: "She" | "Her",
-    "located in": "Toronto, Canada",
-    "Working Knowledge" : {
-        Languages: ["Javascript", "SQL", "PHP", "HTML5", "CSS3"],
-        Libraries & Frameworks : ["React.js", "Node.js", "express", "styled component", "Sass"],
-        Databases: ["PostgreSQL", "MySQL"],
-        Testing: [ "Mocha", "chai"],
-        Tools: ["Linux", "git", "GitHub", "Twilio", "JWT"]
+    location: "Toronto, Canada",
+    currentProject: {
+        title: "Flashcard",
+        repos : {
+            client: "https://github.com/CarlSmoky/flashcard_client",
+            server: "https://github.com/CarlSmoky/flashcard_server"
+        }
     },
-    "Exposed To": ["Amazon AWS", "Google Cloud Platform", "TypeScript", "Redux", "MongoDB", "Figma", "Jest"],
-    loveToDo: ["Improvise Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
+    currentlyLearning : "AWS",
+    loveToDo: ["Improvising Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
 };
 ```
--->
-
 
 <h2 align="left">🚀 Languages & Tools I Use: </h2>
 <h3>Languages</h3>
@@ -75,9 +73,8 @@ const Kaoru = {
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
     <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio">
 </p>
-<h3>Tools That I Am Learning</h3>
+<h3>Some Experience with</h3>
     <div>
-        <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -96,10 +93,12 @@ const Kaoru = {
 
 <!-- <h2 align="left"> 👑Top projects </h2> -->
 
-<!--<h2 align="left"> 🤖 GitHub stats </h2>
-<div align="left">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=CarlSmoky&show_icons=true&theme=dracula&custom_title=Kaoru's_GitHub_Stats" alt="GitHub_Stats">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" alt="Top_Lang">
+<h2 align="left"> 🤖 GitHub stats </h2>
+<div style="display: flex; flex-direction: row;">
+  <a href="https://github.com/CarlSmoky/">
+    <img align="center" style="height: 200px;" src="https://github-readme-stats-pc.vercel.app/api?username=CarlSmoky&theme=dracula" />
+  </a>
+  <a href="https://github.com/CarlSmoky/">
+    <img align="center" style="height: 200px;" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" />
+  </a>
 </div>
--->
