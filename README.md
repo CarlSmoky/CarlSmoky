@@ -97,9 +97,9 @@ const Kaoru = {
 <h2 align="left"> 🤖 GitHub stats </h2>
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/CarlSmoky/">
-    <img align="center" style="height: 200px;" src="https://github-readme-stats-pc.vercel.app/api?username=CarlSmoky&theme=dracula" />
+    <img align="center" style="height: 160px;" src="https://github-readme-stats-pc.vercel.app/api?username=CarlSmoky&theme=dracula" />
   </a>
   <a href="https://github.com/CarlSmoky/">
-    <img align="center" style="height: 200px;" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" />
+    <img align="center" style="height: 160px;" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" />
   </a>
 </div>
