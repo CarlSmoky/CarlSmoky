@@ -40,7 +40,8 @@ const Kaoru = {
 };
 ```
 
-<h2 align="center">💡Projects Spotlight💡</h2>
+
+<h2 align="left"> 👑Top projects </h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
@@ -143,9 +144,6 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
 -->
-
-
-<!-- <h2 align="left"> 👑Top projects </h2> -->
 
 <h2 align="left"> 🤖 GitHub stats </h2>
 <div style="display: flex; flex-direction: row;">
