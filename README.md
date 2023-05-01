@@ -10,7 +10,8 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a target="_blank" href="https://kaoru-portfolio.netlify.app/">
-        <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/portfolio-purple.svg?style=for-the-badge&logo=react&logoColor=white"/>
+    </a>
     </a>
     <!--
     <a target="_blank" href="">
