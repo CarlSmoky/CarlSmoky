@@ -33,7 +33,7 @@ const Kaoru = {
             client: "https://github.com/CarlSmoky/flashcard_client",
             server: "https://github.com/CarlSmoky/flashcard_server"
         },
-        stack: ["React.js", "Node.js", "PostgreSQL", "styled-components"]
+        stack: ["React.js", "Node.js", "Express", "PostgreSQL", "styled-components"]
     },
     currentlyLearning : "AWS",
     loveToDo: ["Improvising Recipes", "Hanging out with cats", "Hiking", "Swimming", "Cycling", "Traveling"]
@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/81199269/235541323-27a47f3b-9e6a-4ec6-
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
   </p>
-  <p><strong>Tools used: React, Sass, NodeJS, ExpressJS, PostgreSQL, Google Maps API, JWT</strong></p>
+  <p><strong>Tools used: React, Sass, NodeJS, Express, PostgreSQL, Google Maps API, JWT</strong></p>
   <p>"Little libraries" is a responsive app for collaboratively documenting with photos and geolocation data “Little Libraries” (neigbourhood free book exchanges), with secure login, search, and multiple view options
 </p>
     </td>
@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
   </p>
- <p><strong>Tools used: React.js, NodeJS, MongoDB</strong></p>
+ <p><strong>Tools used: React.js, NodeJS, Express, MongoDB</strong></p>
  <p>Ace the Interview! is a single-page application (SPA) for job seekers who want to practice their interview skills. Questions are randomly chosen from a pool of over 200 questions and there are optional timers for preparing and answering questions.</p>
     </td>
   </tr>
