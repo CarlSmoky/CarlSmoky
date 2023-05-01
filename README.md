@@ -40,6 +40,60 @@ const Kaoru = {
 };
 ```
 
+<h2 align="center">💡Projects Spotlight💡</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Little Libraries</h3>
+        <br>
+
+
+
+
+https://user-images.githubusercontent.com/81199269/235541323-27a47f3b-9e6a-4ec6-9b5c-43ebcb497ed9.mov
+
+
+
+
+  <p align="center">
+  <a href="https://github.com/CarlSmoky/little_libraries_client" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a target="_blank" href="https://littlelibraries.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  </p>
+  <p><strong>Tools used: React, Sass, NodeJS, ExpressJS, PostgreSQL, Google Maps API, JWT</strong></p>
+  <p>"Little libraries" is a responsive app for collaboratively documenting with photos and geolocation data “Little Libraries” (neigbourhood free book exchanges), with secure login, search, and multiple view options
+</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">Ace The Interview!</h3>
+        <br>
+
+
+https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-972e-34a8a4b2e022.mov
+
+
+
+
+
+  <p align="center">
+  <a href="https://github.com/CarlSmoky/interview_client" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a target="_blank" href="https://acetheinterview.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  </p>
+ <p><strong>Tools used: React.js, NodeJS, MongoDB</strong></p>
+ <p>Ace the Interview! is a single-page application (SPA) for job seekers who want to practice their interview skills. Questions are randomly chosen from a pool of over 200 questions and there are optional timers for preparing and answering questions.</p>
+    </td>
+  </tr>
+  
+  
+</table>
+
 <h2 align="left">🚀 Languages & Tools I Use: </h2>
 <h3>Languages</h3>
 <p>
