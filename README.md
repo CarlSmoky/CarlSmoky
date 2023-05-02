@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/81199269/235541323-27a47f3b-9e6a-4ec6-
     <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
   </a>
   </p>
-  <p><strong>Tools used: React, Sass, NodeJS, Express, PostgreSQL, Google Maps API, JWT</strong></p>
+  <p><strong>Tools used: React, Sass, NodeJS, Express, PostgreSQL, Google Maps API, Firebase, JWT</strong></p>
   <p>"Little libraries" is a responsive app for collaboratively documenting with photos and geolocation data “Little Libraries” (neigbourhood free book exchanges), with secure login, search, and multiple view options
 </p>
     </td>
