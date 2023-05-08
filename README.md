@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/portfolio-purple.svg?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
     </a>
-    <a target="_blank" href="https://github.com/CarlSmoky/Resume/blob/main/Kaoru_Tsumita_Resume.pdf">
+    <a target="_blank" href="https://carlsmoky.github.io/Resume/Kaoru_Tsumita_Resume.pdf">
         <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
     </a>
 </div>
