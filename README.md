@@ -13,11 +13,9 @@
         <img src="https://img.shields.io/badge/portfolio-purple.svg?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
     </a>
-    <!--
-    <a target="_blank" href="">
+    <a target="_blank" href="https://github.com/CarlSmoky/Resume/blob/main/Kaoru_Tsumita_Resume.pdf">
         <img src="https://img.shields.io/badge/resume-243964?style=for-the-badge&logo=latex&logoColor=white">
     </a>
-    -->
 </div>
 <p>
     I am a full stack software engineer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
