@@ -34,7 +34,7 @@ const Kaoru = {
         },
         stack: ["React.js", "Node.js", "Express", "PostgreSQL", "styled-components"]
     },
-    currentlyLearning : "Python, AWS",
+    currentlyLearning : "Python", "AWS",
     loveToDo: ["Improvising Recipes", "Hanging out with cats", "Hiking", "Swimming", "Live music", "Traveling"]
 };
 ```
