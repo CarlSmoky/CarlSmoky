@@ -32,7 +32,7 @@ const Kaoru = {
             client: "https://github.com/CarlSmoky/flashcard_client",
             server: "https://github.com/CarlSmoky/flashcard_server"
         },
-        stack: ["React.js", "Node.js", "Express", "PostgreSQL", "styled-components"]
+        stack: ["React.js", "Node.js", "Express", "Postgres", "styled-components"]
     },
     currentlyLearning : "Python", "AWS",
     loveToDo: ["Improvising Recipes", "Hanging out with cats", "Hiking", "Swimming", "Live music", "Traveling"]
