@@ -114,6 +114,7 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
 </div>
 <h3>Some Experience with</h3>
     <div>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
@@ -133,10 +134,9 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
         <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio">
     </div>
     
+
+    
 <!--
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
--->
 
 <h2 align="left"> 🤖 GitHub stats </h2>
 <div style="display: flex; flex-direction: row;">
@@ -147,3 +147,4 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
     <img align="center" style="height: 160px;" src="https://github-readme-stats-pc.vercel.app/api/top-langs/?username=CarlSmoky&layout=compact&theme=dracula" />
   </a>
 </div>
+-->
