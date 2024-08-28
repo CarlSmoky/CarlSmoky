@@ -26,7 +26,7 @@
 const Kaoru = {
     pronouns: "She" | "Her",
     location: "Toronto, Canada",
-    currentlyLearning : "Python", "AWS",
+    currentlyLearning : "React Native", "AWS",
     loveToDo: ["Improvising Recipes", "SUP", "Swimming", "Live music", "Traveling"]
 };
 ```
@@ -35,6 +35,32 @@ const Kaoru = {
 <h2 align="left"> 👑Top projects </h2>
 <table bordercolor="#66b2b2">
   <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Dokodemo Card</h3>
+        <br>
+
+
+
+
+
+https://github.com/user-attachments/assets/503b4e68-84fb-49e4-8c0a-7ec142867a33
+
+
+
+
+
+
+  <p align="center">
+  <a href="https://github.com/CarlSmoky/flashcard_client" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a target="_blank" href="https://dokodemocard.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  </p>
+ <p><strong>Tools used: React.js, Styeled-component, NodeJS, Express, PostgreSQL, Auth0</strong></p>
+ <p>"Dokodemo Card" is an innovative learning app designed to make memorization not just effective but also engaging. With Dokodemo Card, the power to learn is always at your fingertips, transforming downtime into productive study sessions.</p>
+    </td>
     <td width="33%" valign="top">
       <h3 align="center">Little Libraries</h3>
         <br>
@@ -80,32 +106,6 @@ https://user-images.githubusercontent.com/81199269/235541278-15246f3e-beca-4bbb-
   </p>
  <p><strong>Tools used: React.js, NodeJS, Express, MongoDB</strong></p>
  <p>Ace the Interview! is a single-page application (SPA) for job seekers who want to practice their interview skills. Questions are randomly chosen from a pool of over 200 questions and there are optional timers for preparing and answering questions.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Dokodemo Card</h3>
-        <br>
-
-
-
-
-
-https://github.com/user-attachments/assets/503b4e68-84fb-49e4-8c0a-7ec142867a33
-
-
-
-
-
-
-  <p align="center">
-  <a href="https://github.com/CarlSmoky/flashcard_client" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-  <a target="_blank" href="https://dokodemocard.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-  </p>
- <p><strong>Tools used: React.js, Styeled-component, NodeJS, Express, PostgreSQL, Auth0</strong></p>
- <p>"Dokodemo Card" is an innovative learning app designed to make memorization not just effective but also engaging. With Dokodemo Card, the power to learn is always at your fingertips, transforming downtime into productive study sessions.</p>
     </td>
   </tr>
   
