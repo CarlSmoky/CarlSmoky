@@ -43,7 +43,19 @@ const Kaoru = {
 
 
 
-https://github.com/user-attachments/assets/503b4e68-84fb-49e4-8c0a-7ec142867a33
+
+
+
+
+
+https://github.com/user-attachments/assets/12286326-5194-4b9e-8a70-7bbeb48c6f17
+
+
+
+
+
+
+
 
 
 
