@@ -2,7 +2,7 @@
 
 <h1 align="center"> :sparkles: Hi, I'm Kaoru :sparkles:
     <br>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB7092&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=45&lines=Full+Stack+Software+Engineer!+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DB7092&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=45&lines=Full+Stack+Software+Developer!+" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
