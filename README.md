@@ -18,7 +18,7 @@
     </a>
 </div>
 <p>
-    I am a Full Stack Software Developer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide, and am driven to learn and continuously improve my own skills. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
+    I am a Full Stack Software Developer with 5 years experience as an IT Analyst, and I’m excited by all the possibilities in modern web technology and the opportunities they can provide. Bridging the gap between people and technology to make lives easier is a crucial motivation for me.
 </p>
 
 
